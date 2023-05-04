@@ -1,0 +1,12 @@
+[submodule "top/TD-Anisotropic-Kuwahara"]
+	path = top/TD-Anisotropic-Kuwahara
+	url = https://github.com/yeataro/TD-Anisotropic-Kuwahara
+[submodule "top/TouchDesigner_Shared"]
+	path = top/TouchDesigner_Shared
+	url = https://github.com/DBraun/TouchDesigner_Shared
+[submodule "top/TD-Flow-ABS"]
+	path = top/TD-Flow-ABS
+	url = https://github.com/yeataro/TD-Flow-ABS
+[submodule "top/TD_Voronoi"]
+	path = top/TD_Voronoi
+	url = https://github.com/yeataro/TD_Voronoi
