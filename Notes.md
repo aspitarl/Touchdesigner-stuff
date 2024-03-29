@@ -4,6 +4,10 @@ Note: termiology might not be right. Panel = container strips on left and right 
 
 This touch designer patch plays movie files from a selected folder, either in sequential (automatic) mode or with the movie index controlled dynamically through OSC. the folder contains a series of .mov files (sections) and which movie is playing is controlled by OSC too. 
 
+## General questions
+
+binding as master or reference? some things seem to become unbound. 
+
 ## Side parameter panel hiding
 The side parameter panels are currently laid out in a horizontal arrangement with the video. This worked when we were doing 512x512 videos but pushes a 16/9 video off screen. I implemented a hacky way to fix this by changing the align order of the layout to push the panels off screen by pressing a on the keyboard. 
 
@@ -13,7 +17,8 @@ The side parameter panels are currently laid out in a horizontal arrangement wit
 
 * other feature additions TODO:
    * control to quickly swich between a series of pre-selected folder. Currently having to open up file explorer.
-   * switch from index mode to sequential mode. 
+   * switch from index mode to sequential mode.
+   * Enable disable ableton link (binding becomes broken?)
 
 ## FX panel
 
