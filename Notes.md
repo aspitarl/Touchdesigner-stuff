@@ -25,3 +25,17 @@
     
     make groups of osc messages
     button to clear osc messages. 
+
+
+# 04-05
+
+group things into Bases and give glogal OP shortcut. create out top and give global shortcut to base ('me.name')
+
+op.SHORTCUT_NAME.op('OUT')
+
+* relative paths
+    ../ = parent
+    ../../ = parent(2)
+
+
+* alt+n - null
