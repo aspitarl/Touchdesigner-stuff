@@ -1,0 +1,10 @@
+song_name,subfolder,file_idx,playback_mode
+handsoff,1_Show,0,2
+corpus,1_Show,1,2
+win,1_Show,2,2
+acai,1_Show,3,1
+emit,1_Show\Emit,0,1
+pipey,1_Show\Pipey,0,1
+cycle,1_Show\Cycle,0,1
+cosmosknows,1_Show,4,2
+jam,2_Jam,0,2
